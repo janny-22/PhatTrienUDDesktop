@@ -1,0 +1,11 @@
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\bin\Debug\PhanBaiTap.exe.config
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\bin\Debug\PhanBaiTap.exe
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\bin\Debug\PhanBaiTap.pdb
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.csproj.AssemblyReference.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.Form1.resources
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.Properties.Resources.resources
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.csproj.GenerateResource.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.csproj.CoreCompileInputs.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.exe
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.pdb
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\PhanBaiTap\obj\Debug\PhanBaiTap.exe.config

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl"href="books_1.xsl"?><!DOCTYPE catalog [<!ENTITY h"hardcover">]><!--This is a book sample XML--><book ISBN="9831123212"><author>Mahesh Chand</author><title>Visual C# Programming</title><price>44.95</price></book>

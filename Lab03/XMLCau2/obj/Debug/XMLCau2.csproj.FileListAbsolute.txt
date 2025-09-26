@@ -1,0 +1,7 @@
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\obj\Debug\XMLCau2.csproj.AssemblyReference.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\obj\Debug\XMLCau2.csproj.CoreCompileInputs.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\bin\Debug\XMLCau2.exe.config
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\bin\Debug\XMLCau2.exe
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\bin\Debug\XMLCau2.pdb
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\obj\Debug\XMLCau2.exe
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\XMLCau2\obj\Debug\XMLCau2.pdb

@@ -1,0 +1,8 @@
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\bin\Debug\DocGhiXML.exe.config
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\bin\Debug\DocGhiXML.exe
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\bin\Debug\DocGhiXML.pdb
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\obj\Debug\DocGhiXML.csproj.AssemblyReference.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\obj\Debug\DocGhiXML.csproj.CoreCompileInputs.cache
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\obj\Debug\DocGhiXML.exe
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\obj\Debug\DocGhiXML.pdb
+D:\NopBaiPhatTrienLenGithub\ChuDe3_NopBai\DocGhiXML\obj\Debug\DocGhiXML.exe.config

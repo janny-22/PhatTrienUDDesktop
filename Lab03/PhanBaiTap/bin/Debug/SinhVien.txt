@@ -1,0 +1,2 @@
+﻿﻿102190001|Nguyen Van|A|02/11/2000|CTK43|Nam|123456789|0987654321|123 Le Loi|Mang máy tính,Lập trình CSDL
+SV002|Trần Thị|B|05/05/2001|CTK44|Nữ|234567890|0987654321|45 Lê Lợi|Lập trình mạng,Lập trình CSDL
